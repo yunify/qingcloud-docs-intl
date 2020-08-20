@@ -1,0 +1,226 @@
+{
+    "1": {
+        "name": "computing",
+        "category": {
+            "1": {
+                "name": "Virtual host",
+                "main_path": "qingstor",
+                "user_doc": [
+                    {
+                        "example_title": "Physical host",
+                        "example_content": "Physical hostPhysical host",
+                        "doc_url": "/qingstor/guide/object_manage/"
+                    },
+                    {
+                        "example_title": "Dedicated host",
+                        "example_content": "Dedicated hostDedicated host",
+                        "doc_url": "/test/guide/object_manage/"
+                    },
+                    {
+                        "example_title": "Dedicated hostDedicated host",
+                        "example_content": "Dedicated hosthost",
+                        "doc_url": "/qingstor/guide/object_manage/"
+                    }
+                ],
+                "development_doc": [
+                    {
+                        "example_title": "phpphphphphpp",
+                        "example_content": "phpphphphphppphpphphphphppphpphphphphpp",
+                        "doc_url": ""
+                    },
+                    {
+                        "example_title": "python",
+                        "example_content": "pythonpythonpythonpythonpython",
+                        "doc_url": ""
+                    },
+                    {
+                        "example_title": "html",
+                        "example_content": "htmlhtmlhtmlhtmlhtmlhtmlhtmlhtmlhtmlhtmlhtmlhtmlhtml",
+                        "doc_url": ""
+                    }
+                ],
+                "learn_path": [
+                    {
+                        "title": "know",
+                        "content": "Host template containing operating system and pre-installed application software, providing a variety of commonly used images",
+                        "category_title": "Dedicated host",
+                        "category": [
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            },
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            },
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            },
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Dedicated host",
+                        "content": "Dedicated host",
+                        "category_title": "Dedicated host",
+                        "category": [
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            },
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            },
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            }
+                        ]
+                    }
+                ],
+                "content": "Safe, reliable, second-level response, and elastically scalable computing services help reduce IT costs"
+            },
+            "2": {
+                "name": "services",
+                "development_doc": 0,
+                "main_path": "qingstor",
+                "content": "Safe, reliable, second-level response, and elastically scalable computing services help reduce IT costs"
+            },
+            "3": {
+                "name": "GPU",
+                "development_doc": 0,
+                "main_path": "qingstor",
+                "content": "Safe, reliable, second-level response, and elastically scalable computing services help reduce IT costs"
+            },
+            "4": {
+                "name": "scalable",
+                "development_doc": 1,
+                "main_path": "qingstor",
+                "content": "Safe, reliable, second-level response, and elastically scalable computing services help reduce IT costs"
+            },
+            "5": {
+                "name": "response",
+                "development_doc": 1,
+                "main_path": "qingstor",
+                "content": "Safe, reliable, second-level response, and elastically scalable computing services help reduce IT costs"
+            }
+        }
+    },
+    "2": {
+        "name": "computing",
+        "category": {
+            "1": {
+                "name": "Virtual host",
+                "main_path": "qingstor",
+                "user_doc": [
+                    {
+                        "example_title": "Physical host",
+                        "example_content": "Physical hostPhysical host",
+                        "doc_url": "/qingstor/guide/object_manage/"
+                    },
+                    {
+                        "example_title": "Dedicated host",
+                        "example_content": "Dedicated hostDedicated host",
+                        "doc_url": "/test/guide/object_manage/"
+                    },
+                    {
+                        "example_title": "Dedicated hostDedicated host",
+                        "example_content": "Dedicated hosthost",
+                        "doc_url": "/qingstor/guide/object_manage/"
+                    }
+                ],
+                "development_doc": [
+                    {
+                        "example_title": "phpphphphphpp",
+                        "example_content": "phpphphphphppphpphphphphppphpphphphphpp",
+                        "doc_url": ""
+                    },
+                    {
+                        "example_title": "python",
+                        "example_content": "pythonpythonpythonpythonpython",
+                        "doc_url": ""
+                    },
+                    {
+                        "example_title": "html",
+                        "example_content": "htmlhtmlhtmlhtmlhtmlhtmlhtmlhtmlhtmlhtmlhtmlhtmlhtml",
+                        "doc_url": ""
+                    }
+                ],
+                "learn_path": [
+                    {
+                        "title": "know",
+                        "content": "Host template containing operating system and pre-installed application software, providing a variety of commonly used images",
+                        "category_title": "Dedicated host",
+                        "category": [
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            },
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            },
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            },
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Dedicated host",
+                        "content": "Dedicated host",
+                        "category_title": "Dedicated host",
+                        "category": [
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            },
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            },
+                            {
+                                "doc_title": "Dedicated host",
+                                "doc_url": "XXXX"
+                            }
+                        ]
+                    }
+                ],
+                "content": "111111111111111111"
+            },
+            "2": {
+                "name": "services",
+                "development_doc": 0,
+                "main_path": "qingstor",
+                "content": "111111111111111111"
+            },
+            "3": {
+                "name": "GPU",
+                "development_doc": 0,
+                "main_path": "qingstor",
+                "content": "111111111111111111111111111111111111"
+            },
+            "4": {
+                "name": "scalable",
+                "development_doc": 1,
+                "main_path": "qingstor",
+                "content": "222222222222222222222222222222222222222222"
+            },
+            "5": {
+                "name": "response",
+                "development_doc": 1,
+                "main_path": "qingstor",
+                "content": "222222222222222222"
+            }
+        }
+    }
+}

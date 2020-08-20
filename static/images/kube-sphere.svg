@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+    <defs>
+        <linearGradient id="w9prh4xzca" x1="50%" x2="50%" y1="1.831%" y2="96.72%">
+            <stop offset="0%" stop-color="#19B27F" stop-opacity=".295"/>
+            <stop offset="100%" stop-color="#19B27F"/>
+        </linearGradient>
+        <linearGradient id="v18rp6a2md" x1="50%" x2="50%" y1="2.278%" y2="88.149%">
+            <stop offset="0%" stop-color="#00A971"/>
+            <stop offset="100%" stop-color="#3E3D49"/>
+        </linearGradient>
+        <linearGradient id="wt634ccc2g" x1="50%" x2="50%" y1="1.831%" y2="96.72%">
+            <stop offset="0%" stop-color="#19B27F" stop-opacity=".295"/>
+            <stop offset="100%" stop-color="#19B27F"/>
+        </linearGradient>
+        <linearGradient id="engsvuqukl" x1="50%" x2="50%" y1="1.831%" y2="96.72%">
+            <stop offset="0%" stop-color="#19B27F" stop-opacity=".295"/>
+            <stop offset="100%" stop-color="#19B27F"/>
+        </linearGradient>
+        <linearGradient id="tcdfi3b9io" x1="50%" x2="50%" y1="3.064%" y2="100%">
+            <stop offset="0%" stop-color="#93EBD2" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#86DBA2"/>
+        </linearGradient>
+        <linearGradient id="zjkrad1msp" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#00A971"/>
+            <stop offset="100%" stop-color="#86DBA2" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="w749o8jt9q" x1="50%" x2="50%" y1="3.064%" y2="100%">
+            <stop offset="0%" stop-color="#93EBD2" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#86DBA2"/>
+        </linearGradient>
+        <linearGradient id="ceig4oe8qr" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#00A971"/>
+            <stop offset="100%" stop-color="#86DBA2" stop-opacity="0"/>
+        </linearGradient>
+        <filter id="9arqpehdhc" width="183.6%" height="242.8%" x="-41.8%" y="-71.4%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="13"/>
+            <feOffset dy="-14" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.101307745 0"/>
+        </filter>
+        <filter id="tv08cljaof" width="267.2%" height="391.5%" x="-83.6%" y="-145.7%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="13"/>
+            <feOffset dy="-14" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.101307745 0"/>
+        </filter>
+        <filter id="8tgmf1vt6i" width="267.2%" height="196.4%" x="-83.6%" y="-48.2%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="13"/>
+            <feOffset dy="-14" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.101307745 0"/>
+        </filter>
+        <filter id="g5h5dcqjgk" width="267.2%" height="196.4%" x="-83.6%" y="-48.2%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="13"/>
+            <feOffset dy="-14" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.101307745 0"/>
+        </filter>
+        <filter id="bwjvpeif5n" width="434.1%" height="391.5%" x="-167%" y="-145.7%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation="13"/>
+            <feOffset dy="-14" in="shadowBlurInner1" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.101307745 0"/>
+        </filter>
+        <path id="emz4ajungb" d="M23.92 55.204L47.835 41.076 23.92 27.187 0 41.076z"/>
+        <path id="vpcy9a8ece" d="M23.959 20.411L35.957 13.595 23.959 6.689 12.04 13.55z"/>
+        <path id="7u7i4c3bxh" d="M0 13.545L0 41.076 23.926 55.056 23.926 27.1z"/>
+        <path id="96b19w7u1j" d="M23.909 13.545L23.909 41.076 47.835 55.056 47.835 27.1z"/>
+        <path id="cemzil9uhm" d="M23.909 6.689L24.014 20.411 12.04 13.55z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0H68V68H0z"/>
+        <g>
+            <g>
+                <g opacity=".5" transform="translate(0 4) translate(10.047 4.378)">
+                    <use fill="url(#w9prh4xzca)" xlink:href="#emz4ajungb"/>
+                    <use fill="#000" filter="url(#9arqpehdhc)" xlink:href="#emz4ajungb"/>
+                </g>
+                <path fill="#00AA72" d="M23.92 27.1L47.691 13.639 23.92 0 0 13.55z" opacity=".3" transform="translate(0 4) translate(10.047 4.378)"/>
+                <g opacity=".9" transform="translate(0 4) translate(10.047 4.378)">
+                    <use fill="url(#v18rp6a2md)" xlink:href="#vpcy9a8ece"/>
+                    <use fill="#000" filter="url(#tv08cljaof)" xlink:href="#vpcy9a8ece"/>
+                </g>
+                <g opacity=".5" transform="translate(0 4) translate(10.047 4.378)">
+                    <use fill="url(#wt634ccc2g)" xlink:href="#7u7i4c3bxh"/>
+                    <use fill="#000" filter="url(#8tgmf1vt6i)" xlink:href="#7u7i4c3bxh"/>
+                </g>
+                <g opacity=".5" transform="translate(0 4) translate(10.047 4.378) matrix(-1 0 0 1 71.744 0)">
+                    <use fill="url(#wt634ccc2g)" xlink:href="#96b19w7u1j"/>
+                    <use fill="#000" filter="url(#g5h5dcqjgk)" xlink:href="#96b19w7u1j"/>
+                </g>
+                <g opacity=".5" transform="translate(0 4) translate(10.047 4.378)">
+                    <use fill="url(#engsvuqukl)" xlink:href="#cemzil9uhm"/>
+                    <use fill="#000" filter="url(#bwjvpeif5n)" xlink:href="#cemzil9uhm"/>
+                </g>
+            </g>
+            <g>
+                <path fill="url(#tcdfi3b9io)" d="M1.914 4.343L3.815 3.266 1.914 2.175 0.024 3.259z" opacity=".768" transform="translate(0 4) translate(32.264 2)"/>
+                <path fill="#86DBA2" d="M1.914 2.168L3.815 1.091 1.914 0 0.024 1.084z" transform="translate(0 4) translate(32.264 2)"/>
+                <path fill="url(#zjkrad1msp)" d="M0 1.084L0 3.286 1.914 4.404 1.914 2.168z" transform="translate(0 4) translate(32.264 2)"/>
+                <path fill="url(#zjkrad1msp)" d="M1.913 1.084L1.913 3.286 3.827 4.404 3.827 2.168z" transform="translate(0 4) translate(32.264 2) matrix(-1 0 0 1 5.74 0)"/>
+            </g>
+            <g>
+                <path fill="url(#w749o8jt9q)" d="M0.897 2.036L1.788 1.531 0.897 1.02 0.011 1.528z" opacity=".768" transform="translate(0 4) translate(57.034 44.259)"/>
+                <path fill="#86DBA2" d="M0.897 1.016L1.788 0.511 0.897 0 0.011 0.508z" transform="translate(0 4) translate(57.034 44.259)"/>
+                <path fill="url(#ceig4oe8qr)" d="M0 0.508L0 1.54 0.897 2.065 0.897 1.016z" transform="translate(0 4) translate(57.034 44.259)"/>
+                <path fill="url(#ceig4oe8qr)" d="M0.897 0.508L0.897 1.54 1.794 2.065 1.794 1.016z" transform="translate(0 4) translate(57.034 44.259) matrix(-1 0 0 1 2.69 0)"/>
+            </g>
+            <g>
+                <path fill="url(#w749o8jt9q)" d="M0.897 2.036L1.788 1.531 0.897 1.02 0.011 1.528z" opacity=".768" transform="translate(0 4) translate(9.005 44.504)"/>
+                <path fill="#86DBA2" d="M0.897 1.016L1.788 0.511 0.897 0 0.011 0.508z" transform="translate(0 4) translate(9.005 44.504)"/>
+                <path fill="url(#ceig4oe8qr)" d="M0 0.508L0 1.54 0.897 2.065 0.897 1.016z" transform="translate(0 4) translate(9.005 44.504)"/>
+                <path fill="url(#ceig4oe8qr)" d="M0.897 0.508L0.897 1.54 1.794 2.065 1.794 1.016z" transform="translate(0 4) translate(9.005 44.504) matrix(-1 0 0 1 2.69 0)"/>
+            </g>
+            <path stroke="#86DBA2" stroke-dasharray="3.6" stroke-linecap="square" stroke-width=".5" d="M34.5 0.5L34.123 24.288" transform="translate(0 4)"/>
+            <path stroke="#86DBA2" stroke-dasharray="3.6" stroke-linecap="square" stroke-width="1.2" d="M34.123 32.129L34 60.922" opacity=".467" transform="translate(0 4)"/>
+            <path stroke="#86DBA2" stroke-dasharray="3.6" stroke-linecap="square" stroke-width=".5" d="M67.694 39.726L33.02 59.774" opacity=".467" transform="translate(0 4)"/>
+            <path stroke="#86DBA2" stroke-dasharray="3.6" stroke-linecap="square" stroke-width=".5" d="M35.225 39.726L0 60.142" opacity=".467" transform="translate(0 4) matrix(-1 0 0 1 35.286 0)"/>
+            <path stroke="#86DBA2" stroke-dasharray="3.6" stroke-linecap="square" stroke-width=".5" d="M57.831 18.1L57.892 44.871M10.261 18.07L10.261 44.767" opacity=".467" transform="translate(0 4)"/>
+        </g>
+    </g>
+</svg>

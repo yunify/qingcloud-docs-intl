@@ -1,0 +1,263 @@
+.section.cost {
+  font-size: 14px;
+}
+
+.section.cost .image {
+  width: 4.25rem;
+  height: 4.25rem;
+  margin: 0px auto 15px;
+}
+
+.section.cost .image img {
+  height: 100%;
+}
+
+.section.cost .title {
+  color: #3e464c;
+  font-weight: 500;
+  margin-bottom: 12px;
+  font-size: 20px;
+}
+
+.section.cost p {
+  line-height: 2;
+  padding: 0 2.25rem;
+  margin-bottom: 5px;
+}
+
+.section.subbanner {
+  background: url(/static/assets/images/regulation-subbanner-bg.svg) no-repeat 0 0 #3d3e49;
+  background-size: cover;
+}
+
+.section.subbanner .title {
+  color: #fff;
+}
+
+.section.subbanner .btn-group {
+  margin-top: 1.875rem;
+}
+
+.section.subbanner .button {
+ width: 160px;
+ height: 44px;
+ font-size: 14px;
+ font-weight: 500;
+}
+
+.section.subbanner .button+.button {
+  margin-left: 1rem;
+}
+
+.section.price {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 6rem;
+}
+
+.section.price .tabs li a {
+  font-size: 20px;
+  width: 200px;
+  border-bottom: 2px solid transparent;
+}
+
+.section.price .tabs li.is-active a {
+  border-bottom: 2px solid #00a971;
+}
+
+section.price .tabs li a:hover {
+  color: #00a971;
+  border-bottom-color: transparent;
+}
+
+section.price .tabs li.is-active a:hover {
+  color: #00a971;
+  border-bottom-color: #00a971;
+}
+
+.section.price .subtabs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.section.price .subtabs ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.section.price .subtabs ul li {
+  height: 44px;
+  text-align: center;
+  line-height: 44px;
+  cursor: pointer;
+}
+
+.section.price .subtabs ul li a {
+  color: #4a535c;
+  padding: 0px 30px;
+  white-space: nowrap;
+}
+
+.section.price .subtabs ul li.is-active {
+  background: #00a870;
+  border-radius: 3px;
+}
+
+.section.price .subtabs ul li.is-active a {
+  color: #fff;
+  border-left: 1px solid transparent;
+}
+
+.section.price .subtabs ul li+li a {
+  border-left: 1px solid #dde1e6;
+}
+
+.section.price .subtabs ul li.is-active+li a {
+  border-left: none;
+}
+
+.section.price .card {
+  display: block;
+  height: 120px;
+  padding: 20px;
+  border: solid 1px #d5dee7;
+  -webkit-box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.05), 0 10px 20px 0 rgba(0, 0, 0, 0.05);
+          box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.05), 0 10px 20px 0 rgba(0, 0, 0, 0.05);
+}
+
+.section.price .card .title {
+  color: #3e464c;
+  font-size: 18px;
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+.section.price .card .title sup {
+  font-size: 14px;
+}
+
+.section.price .card p {
+  line-height: 1.7;
+}
+
+.section.price .card:hover {
+  -webkit-transform: translateY(-8px);
+          transform: translateY(-8px);
+}
+
+.section.price .card:hover .title {
+  color: #00a971;
+}
+
+.section.price .card-content {
+  margin-top: 28px;
+}
+
+.section.docs {
+  background: url(/static/assets/images/icons/regulation/doc-bg.svg) center 100px no-repeat #f5f9fa;
+}
+
+.section.docs ul {
+  margin-bottom: 20px;
+}
+
+.section.docs li {
+  line-height: 2.5;
+}
+
+.section.docs li a {
+  color: #4a535c;
+}
+
+.section.docs li a:hover {
+  color: #00a870;
+}
+
+.columns.is-gapless>.column {
+  padding: 15px 10px !important;
+}
+
+.card-bg {
+  background-image: url(/static/assets/images/icons/regulation/01.svg);
+  background-position: right bottom;
+  background-repeat: no-repeat;
+}
+
+.card-bg.icon01 {
+  background-image: url(/static/assets/images/icons/regulation/01.svg);
+}
+
+.card-bg.icon02 {
+  background-image: url(/static/assets/images/icons/regulation/02.svg);
+}
+
+.card-bg.icon03 {
+  background-image: url(/static/assets/images/icons/regulation/03.svg);
+}
+
+.card-bg.icon04 {
+  background-image: url(/static/assets/images/icons/regulation/04.svg);
+}
+
+.card-bg.icon05 {
+  background-image: url(/static/assets/images/icons/regulation/05.svg);
+}
+
+.card-bg.icon06 {
+  background-image: url(/static/assets/images/icons/regulation/06.svg);
+}
+
+.card-bg.icon07 {
+  background-image: url(/static/assets/images/icons/regulation/07.svg);
+}
+
+.card-bg.icon08 {
+  background-image: url(/static/assets/images/icons/regulation/08.svg);
+}
+
+.card-bg.icon09 {
+  background-image: url(/static/assets/images/icons/regulation/09.svg);
+}
+
+.title-block .title {
+    margin-bottom: 1.25rem;
+    font-weight: normal;
+    line-height: normal;
+    color: #3e464c;
+    font-size: 28px;
+}
+.title-block {
+    text-align: center;
+    margin-bottom: 2.875rem;
+}
+@media screen and (min-width: 1408px) {
+    .container {
+        max-width: 1160px;
+        width: 1160px;
+    }
+}
+.tab-panel.is-active {
+    display: block;
+}
+.is-text-small {
+    font-size: 0.875rem !important;
+}
+.is-text-gray {
+    color: #68747f !important;
+}
