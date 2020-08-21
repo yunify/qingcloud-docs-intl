@@ -16,8 +16,8 @@
 						Short Form
 						</a>
 						</div>
-						<form class="search j-search" action="/ss" method="GET">
-							<input value="" class="searchInput" type="text" placeholder="KubeSphere" name="q" autocomplete="off">
+						<form class="search j-search" action="/search" method="GET">
+							<input value="" id="search-bar" class="searchInput" type="text" placeholder="KubeSphere" name="q" autocomplete="off">
 							<input type="submit" class="icon icon-search" value="">
 						</form>
 						<p class="control user-links is-hidden">
@@ -50,4 +50,6 @@
 		</div>
 	</nav>
 </div>
+<link href="/css/autocomplete.css" rel="stylesheet" />
+<script src="/js/autocomplete/jquery.autocomplete.js"></script>
 <script src="/js/navbar.js"></script>

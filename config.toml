@@ -55,7 +55,7 @@ id = "UA-00000000-0"
 [languages.zh]
 title = "QingCloud Document"
 description = "QingCloud Document"
-languageName ="中文"
+languageName ="zh"
 contentDir = "content"
 # Weight used for sorting.
 weight = 1

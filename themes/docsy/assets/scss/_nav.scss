@@ -101,7 +101,7 @@ nav.navbar_index {
 }
 
 .navbar .search {
-    width: 200px;
+    width: 300px;
     height: 36px;
     border-radius: 4px;
     background: rgba(255, 255, 255, .05);
@@ -550,10 +550,6 @@ nav.navbar_index {
 }
 
 @media only screen and (min-width: 1024px) {
-    .navbar .search:hover {
-        width: 280px;
-    }
-
     .navbar-item {
         padding: 10px 16px;
     }
