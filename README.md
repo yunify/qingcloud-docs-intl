@@ -4,14 +4,11 @@ QingCloud 官方文档使用了 [gohugo](https://gohugo.io/getting-started/insta
 # 第一步 安装前置工具 
 Git
 
-Go (至少Go `1.11`)
 
 Hugo(至少 `0.70` ) [gohugo版本](https://github.com/gohugoio/hugo/releases)
 
 ## 第二步 安装Node
 1.官网下载并本地安装 Node https://nodejs.org/zh-cn/
-
-主题目录下 npm init
 
 2.安装项目依赖(项目根路径下)
 更新站点 CSS文件需要安装PostCSS，请按照下面命令本地安装PostCSS。
