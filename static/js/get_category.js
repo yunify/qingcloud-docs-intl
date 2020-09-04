@@ -10,7 +10,7 @@ $(function(){
 			}
 			
 			$.each(value.category,function(k,v){
-				child_category += '<div class="column is-4"><a class="card" href="/product_index/index.html?id='+key+'_'+k+'" target="_blank"><h5 class="title">'+v.name+'</h5><p class="is-text-small is-text-gray">'+v.content+'</p></a></div>';
+				child_category += '<div class="column is-4 has-text-centered is-centered"><a class="card" href="/product_index/index.html?id='+key+'_'+k+'" target="_blank"><h5 class="title">'+v.name+'</h5><p class="is-text-small is-text-gray">'+v.content+'</p><p>Learn more<img src="/images/icons/black.svg"></p></a></div>';
 			});
 			child_category += '</div></div>';
 			//一级目录

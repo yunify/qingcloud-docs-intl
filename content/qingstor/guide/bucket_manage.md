@@ -8,7 +8,7 @@ draft: false
 
 The roles of desktop cloud users are divided into three roles: global administrator, ordinary administrator, and ordinary user. -Global administrator role, with the highest authority, you can modify other roles, user name admin, globally unique, built-in account for the system. -Ordinary administrator, who is promoted to an ordinary administrator by the global administrator (admin). The ordinary administrator can manage resources with permissions, and he is also an ordinary user using the desktop. -Ordinary administrator, that is: users who use the desktop
   
-  
+![avatar](/images/kube-sphere.svg)  
   
   
 ### Portal type of desktop cloud

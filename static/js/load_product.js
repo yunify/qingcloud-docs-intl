@@ -6,7 +6,7 @@ $(function(){
 		var user_content = '';
 		var data_child = data[index_arr[0]]['category'][index_arr[1]];
 		$.each(data_child['user_doc'],function(k,v){
-			user_content += '<div class="col-sm-4"><div class="card"><div class="card-body"><h5 class="card-title">QingStor '+v.example_title+'</h5><p class="card-text">'+v.example_content+'</p><a target="_blank" href="'+v.doc_url+'" class="card-link">Learn More →</a></div><a href="javascript:;" class="pdf-download-btn" onclick="download_pdf(\''+v.doc_url+'\');><i class="fa fa-download"></i>PDF</a></div></div>';
+			user_content += '<div class="col-sm-4"><div class="card"><div class="card-body"><h5 class="card-title">QingStor '+v.example_title+'</h5><p class="card-text">'+v.example_content+'</p><a target="_blank" href="'+v.doc_url+'" class="card-link">Learn More →</a></div><a href="javascript:;" class="pdf-download-btn" onclick="download_pdf(\''+v.doc_url+'\');"><i class="fa fa-download"></i>PDF</a></div></div>';
 		});
 		$('#main_name').html(data_child['name']);
 		$('#main_content').html(data_child['content']);
@@ -16,7 +16,7 @@ $(function(){
 		if(data_child['development_doc']){
 			var development_content = '';
 			$.each(data_child['development_doc'],function(k,v){
-				development_content += '<div class="col-sm-4"><div class="card"><div class="card-body"><h5 class="card-title">QingStor '+v.example_title+'</h5><p class="card-text">'+v.example_content+'</p><a target="_blank" href="'+v.doc_url+'" class="card-link">Learn More →</a></div><a href="javascript:;" class="pdf-download-btn" onclick="download_pdf(\''+v.doc_url+'\');><i class="fa fa-download"></i>PDF</a></div></div>';
+				development_content += '<div class="col-sm-4"><div class="card"><div class="card-body"><h5 class="card-title">QingStor '+v.example_title+'</h5><p class="card-text">'+v.example_content+'</p><a target="_blank" href="'+v.doc_url+'" class="card-link">Learn More →</a></div><a href="javascript:;" class="pdf-download-btn" onclick="download_pdf(\''+v.doc_url+'\');"><i class="fa fa-download"></i>PDF</a></div></div>';
 			});
 			$('#development_content').append(development_content);
 			$('#development_doc_title').html('QingStor '+data_child['name']+' Developer Document');

@@ -3,7 +3,7 @@
         "name": "computing",
         "category": {
             "1": {
-                "name": "Virtual host",
+                "name": "Introduction to QingCloud",
                 "main_path": "qingstor",
                 "user_doc": [
                     {
@@ -83,31 +83,19 @@
                         ]
                     }
                 ],
-                "content": "Safe, reliable, second-level response, and elastically scalable computing services help reduce IT costs"
+                "content": "Driving Innovation With Cloud Computing"
             },
             "2": {
-                "name": "services",
+                "name": "Account Management",
                 "development_doc": 0,
                 "main_path": "qingstor",
-                "content": "Safe, reliable, second-level response, and elastically scalable computing services help reduce IT costs"
+                "content": "How to Sign up and Get Started"
             },
             "3": {
-                "name": "GPU",
+                "name": "Top-up and billing",
                 "development_doc": 0,
                 "main_path": "qingstor",
-                "content": "Safe, reliable, second-level response, and elastically scalable computing services help reduce IT costs"
-            },
-            "4": {
-                "name": "scalable",
-                "development_doc": 1,
-                "main_path": "qingstor",
-                "content": "Safe, reliable, second-level response, and elastically scalable computing services help reduce IT costs"
-            },
-            "5": {
-                "name": "response",
-                "development_doc": 1,
-                "main_path": "qingstor",
-                "content": "Safe, reliable, second-level response, and elastically scalable computing services help reduce IT costs"
+                "content": "Introduction to QingCloud Payment"
             }
         }
     },

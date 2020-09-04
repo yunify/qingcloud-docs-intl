@@ -2,7 +2,7 @@
 error_reporting(0);
 class search_api
 {
-    const URL_ROOT = 'http://192.168.65.245:9200/official_website_test/_search';
+    const URL_ROOT = 'http://172.18.10.249:9200/official_website_intl/_search';
     const CHARSET = 'UTF-8';
     /**GET*/
     private $msGets = '';
@@ -54,8 +54,8 @@ class search_api
         // to: currentPage  * itemsPerPage
         $search_category = $_REQUEST['cate'];
         $search_keywords = $_REQUEST['q'];
-        $count = $_REQUEST['count'];
-        $size_flag = $_REQUEST['size_flag'];
+        $count = $_REQUEST['count']?:false;
+        $size_flag = $_REQUEST['size_flag']?:false;
         $size = 10;
         if ($size_flag!="false") $size = 1000;
         $pager = $_REQUEST['pager']?:1;

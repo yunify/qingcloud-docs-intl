@@ -15,7 +15,7 @@ $(function(){
 		})
 	}else if(url_path.search("/search/") != -1){
 		//搜索页
-		var index_content = '<span class="has-text-white container_span_space"> > </span> <span class="has-text-grey">搜索结果</span>';
+		var index_content = '<span class="has-text-white container_span_space"> > </span> <span class="has-text-grey">search result</span>';
 		$('#index_url_path').append(index_content);
 	}else{
 		//剩下的就是文档页
@@ -28,7 +28,6 @@ $(function(){
 				}
 				$.each(j.category,function(m,n){
 					if(n.main_path==url_path_split[1]){
-						console.log(333);
 						var path_parent_id = i+'_'+m;
 						var path_parent_name = n.name;
 						//面包屑导航
