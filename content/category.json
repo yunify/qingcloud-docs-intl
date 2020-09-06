@@ -83,19 +83,22 @@
                         ]
                     }
                 ],
-                "content": "Driving Innovation With Cloud Computing"
+                "content": "Driving Innovation With Cloud Computing",
+		"direct_url": "/about/"
             },
             "2": {
                 "name": "Account Management",
                 "development_doc": 0,
                 "main_path": "qingstor",
-                "content": "How to Sign up and Get Started"
+                "content": "How to Sign up and Get Started",
+		"direct_url":"/user/account/"
             },
             "3": {
                 "name": "Top-up and billing",
                 "development_doc": 0,
                 "main_path": "qingstor",
-                "content": "Introduction to QingCloud Payment"
+                "content": "Introduction to QingCloud Payment",
+		"direct_url":"/billing/payment/"
             }
         }
     },

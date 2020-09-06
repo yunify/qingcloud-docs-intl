@@ -1,4 +1,8 @@
 $(function(){
+	//左侧列表页title
+	var title_vice = $('.td-page-top').children('h1').html();
+	$('#doc_vice_title').html(title_vice);
+
 	var url_path = GetUrlRelativePath();
 	//首页
 	if(url_path=='/' || url_path==''){
@@ -60,7 +64,6 @@ function insert_content_path(path_parent_id,path_parent_name){
 	var title = $('.td-page-top').children('h1').html();
 	var index_content = '<span class="has-text-white container_span_space"> > </span> <a class="has-text-primary" href="/product_index/?id='+path_parent_id+'" target="blank">'+path_parent_name+'</a><span class="has-text-white container_span_space"> > </span> <span class="has-text-grey">'+title+'</span>';
 	$('#index_url_path').append(index_content);
-	$('#doc_vice_title').html(path_parent_name+' Development');
 }
 
 function get_select_content(i,m,url_path){
