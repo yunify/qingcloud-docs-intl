@@ -15,7 +15,7 @@ $(function(){
 				}else{
 					var href = '/product_index/index.html?id='+key+'_'+k;
 				}
-				child_category += '<div class="column is-4 has-text-centered is-centered"><a class="card" href="'+href+'" target="_blank"><h5 class="title">'+v.name+'</h5><p class="is-text-small is-text-gray">'+v.content+'</p><p>Learn more<img src="/images/icons/black.svg"></p></a></div>';
+				child_category += '<div class="column is-4 has-text-centered is-centered"><a class="card" href="'+href+'" target="_blank"><h5 class="title">'+v.name+'</h5><p class="is-text-small is-text-gray">'+v.content+'</p><p class="is-text-small is-text-gray">Learn more<img src="/images/icons/black.svg"></p></a></div>';
 			});
 			child_category += '</div></div>';
 			//一级目录
