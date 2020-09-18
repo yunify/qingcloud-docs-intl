@@ -9,6 +9,68 @@
     </header>
     
       <main role="main" class="td-main">
+	  {{ with .Params.section1 }}
+	  <section class="hero" style="padding-bottom:0;margin-top: -15px;">
+		<div class="hero-body" style="background-image:'/images/icons/20.svg';">
+			<div class="container">
+				<div class="columns  is-centered is-multiline">
+					<div class="column is-10">
+						<div class="title is-spaced has-text-centered">{{ .title }}</div>
+						<div class="subtitle has-text-centered">{{ .vice_title }}</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	  </section>
+	  {{ end }}
+
+	{{ with .Params.section2 }}
+	<section class="section hybrid-advantages is-medium">
+		<div class="container">
+			<div class="columns has-text-centered is-centered">
+				{{range .}}
+				<div class="column is-4 learn_more_a">
+					<figure class="image is-68x68">
+						<img src="{{ .icon }}">
+					</figure>
+					<h4 class="title">{{ .title }}</h4>
+					<p style="height: 40%;">{{ .content }}</p>
+					<a href="{{ .url }}" target="blank" class="learn_more_a">Learn more →</a>
+				</div>
+				{{ end }}
+			</div>
+		</div>
+	</section>
+	{{ end }}
+	<link rel="stylesheet" href="/css/index_public_cloud.css">
+	{{ with .Params.section3 }}
+	<section id="price" class="section is-medium price">
+		<div class="title-block">
+			<h3 class="title is-3">Getting Started</h3>
+		</div>
+		<div class="container">
+			<div class="tab-content">
+				<div class="tab-panel is-active" style="display: block;">
+					<div class="subtab-content">
+						<div class="card-content tab-panel is-active">
+							<div class="columns is-multiline is-gapless">
+							{{range .}}
+								<div class="column is-4 has-text-centered is-centered">
+									<a class="card" href="{{ .url }}" target="_blank">
+										<h5 class="title">{{ .title }}</h5>
+										<p class="is-text-small is-text-gray">{{ .content }}</p>
+										<p class="is-text-small is-text-gray">Learn more →</p>
+									</a>
+								</div>
+							{{end}}
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	{{ end }}
         {{ block "main" . }}{{ end }}
       </main>
       
