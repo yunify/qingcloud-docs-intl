@@ -142,7 +142,6 @@
         var pattern = '(' + utils.escapeRegExChars(currentValue) + ')';
 
         return suggestion.value
-            .replace(new RegExp(pattern, 'gi'), '<strong>$1<\/strong>')
             .replace(/&/g, '&amp;')
             .replace(/</g, '&lt;')
             .replace(/>/g, '&gt;')
@@ -271,7 +270,9 @@
             $(that.suggestionsContainer).css({
                 'max-height': options.maxHeight + 'px',
                 'width': options.width + 'px',
-                'z-index': options.zIndex
+                'z-index': options.zIndex,
+				'margin-top': '4px',
+				'border-radius': '4px'
             });
 
             this.options = options;

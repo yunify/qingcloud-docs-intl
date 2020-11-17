@@ -28,11 +28,10 @@ section.is-grey-background {
     background-color: #f5f9fa;
 }
 main section {
-    padding-top: 30px;
     padding-bottom: 60px;
 }
 header {
-    min-height: 64px;
+    min-height: 111px;
     nav {
         min-height: 64px;
     }
@@ -189,10 +188,10 @@ ul.timeline > li:before {
 .td-main {
     main {
         position: relative;
-        padding-left: 42px;
-        padding-top: 2rem;
+        padding-left: 10px;
+        padding-top: 1rem;
         padding-right: 1rem;
-        margin-top: 2rem;
+        margin-top: 1rem;
 
         .td-page-top {
             position: relative;
@@ -793,4 +792,26 @@ footer.footer span.tel {
 
 .field.has-addons.has-addons-centered.select-field{
     padding-top:1rem;margin-bottom:0
+}
+
+.container.td-outer {
+    z-index: 1;
+}
+
+.container-min-height {
+    min-height: 60vh;
+}
+
+@media (min-width: 1200px) {
+    .doc-container-width{
+        max-width: 1260px;
+    }
+}
+
+main.col-12.col-md-7.col-xl-7 {
+    max-width: 63.33333333%;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 63.33333333%;
+    -ms-flex: 0 0 63.33333333%;
+    flex: 0 0 63.33333333%;
 }

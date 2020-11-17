@@ -39,7 +39,7 @@
     // Code blocks
     pre {
         word-wrap: normal;
-        background-color: $gray-100;
+        background-color: black;
         padding: $spacer;
      
 
@@ -52,5 +52,9 @@
             border: 0;
             color: #fff;
         }
+    }
+
+    ol{
+        margin-left: 1rem;
     }
 }
